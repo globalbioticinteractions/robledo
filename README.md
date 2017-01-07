@@ -1,4 +1,5 @@
 # robledo
+[![Build Status](https://travis-ci.org/globalbioticinteractions/robledo.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/robledo)
 
 About Author Carlos Garcia-Robledo : http://www.bio.miami.edu/carlos/
 
