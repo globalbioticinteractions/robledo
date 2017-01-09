@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "robledo"
+  "format": "robledo",
+  "resources": {
+    "robledo/table_s1_extract.csv": "table_s1_extract.csv"
+  }
 }
